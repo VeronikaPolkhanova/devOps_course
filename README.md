@@ -1,2 +1,2 @@
-# devOps_course
+# Aston devOps course
 Aston devOps course
